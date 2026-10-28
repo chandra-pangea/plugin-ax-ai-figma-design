@@ -1,0 +1,20 @@
+{
+  "name": "figma-design",
+  "displayName": "Figma Design Skill Set",
+  "description": "Three portable Figma design skills — design tokens (primitive, semantic and component variables + text/effect styles), the component library (atoms, patterns, templates with full variant matrices, all token-bound), and production screens (full layouts, every experience state, and motion as a Figma prototype). Pure how-to via the Figma MCP; no spec, contract, PRD or ticket.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aatmix",
+    "email": "it@aatmix.com"
+  },
+  "repository": "https://github.com/chandra-pangea/plugin-ax-ai-figma-design",
+  "keywords": [
+    "figma",
+    "design-system",
+    "design-tokens",
+    "components",
+    "ui",
+    "skills"
+  ],
+  "license": "UNLICENSED"
+}
