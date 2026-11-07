@@ -38,7 +38,7 @@ Every `SKILL.md` opens with an "In the Aatmix platform" section. When the platfo
   one round at a time);
 - the branding guideline is the project's artifact `BRG` (never asked for), the PRD is the approved PRD artifact;
 - file outputs go to the artifact store: direction spec → `visual_direction`, foundation report → `brand_primitives`,
-  ds-core spec → `design_core`, VD contract → `vd_contract`, rollout record → `screen_rollout`, product-change report →
+  ds-core spec → `semantic_tokens` (tokens and styles) and `core_components` (the component inventory), VD contract → `vd_contract`, rollout record → `screen_rollout`, product-change report →
   the PRD change requests the task names;
 - previews go to `design_preview_put` (project assets) and `screen_preview_put` (screen records).
 
