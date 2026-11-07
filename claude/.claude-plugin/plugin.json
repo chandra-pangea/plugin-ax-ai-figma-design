@@ -1,8 +1,8 @@
 {
   "name": "figma-design",
   "displayName": "Figma Design Skill Set",
-  "description": "Three portable Figma design skills — design tokens (primitive, semantic and component variables + text/effect styles), the component library (atoms, patterns, templates with full variant matrices, all token-bound), and production screens (full layouts, every experience state, and motion as a Figma prototype). Pure how-to via the Figma MCP; no spec, contract, PRD or ticket.",
-  "version": "1.0.0",
+  "description": "Five Figma design-system skills, run in pipeline order: figma-ds-foundation (BrandPrimitives + App-Primitives variables from the brand guidelines), figma-design-direction (3-4 distinct direction alternatives to choose from, then a conform pass), figma-ds-core (semantic and component tokens, text/effect styles and the component library), figma-vd-contract (the PRD-to-design-direction contract with its per-screen state ledger) and figma-vd-rollout (production screens with every state and motion as a Figma prototype).",
+  "version": "2.0.0",
   "author": {
     "name": "Aatmix",
     "email": "it@aatmix.com"
@@ -12,8 +12,10 @@
     "figma",
     "design-system",
     "design-tokens",
+    "design-direction",
     "components",
-    "ui",
+    "vd-contract",
+    "screens",
     "skills"
   ],
   "license": "UNLICENSED"
